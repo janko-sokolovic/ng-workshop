@@ -9,6 +9,7 @@ npm install
 gulp
 ```
 
+
 After starting the project, browser-sync will be initiated alongside with watch task, so you will not have to refresh/rebuild at any time. All file changes in /src folder should be immediately reflected in browser. If you don't have gulp installed globally, you will have to install it globally with npm
 
 ```javascript
@@ -17,4 +18,4 @@ npm i -g gulp
 
 ## Workshop workflow:
 
-1. 53c003f
+1. git checkout 53c003f
