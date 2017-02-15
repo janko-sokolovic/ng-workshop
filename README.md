@@ -2,7 +2,7 @@
 
 This is a source-code which is used for angular workshop. Follow the steps instructed in the presentation to fulfill the workshop.
 
-## Starting the project.
+## Starting the project
 
 ```javascript
 npm install
