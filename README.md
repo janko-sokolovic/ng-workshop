@@ -14,3 +14,7 @@ After starting the project, browser-sync will be initiated alongside with watch 
 ```javascript
 npm i -g gulp
 ```
+
+## Workshop workflow:
+
+1. 53c003f
