@@ -1,3 +1,6 @@
 const angular = require('angular');
+const AnimalsListController = require("./animalsList/animalsList.controller");
 
-const app = angular.module('app', []);
+angular
+    .module('app', [])
+    .controller("AnimalsListController", AnimalsListController);
