@@ -6,8 +6,7 @@ const animals = [{
         name: "Shark",
         type: "vertebrate",
         habitat: "water"
-    },
-    {
+    }, {
         name: "Snail",
         type: "invertebrate",
         habitat: "land"
@@ -32,6 +31,14 @@ const animals = [{
         type: "vertebrate",
         habitat: "air"
     }, {
+        name: "Dolphin",
+        type: "vertebrate",
+        habitat: "water"
+    }, {
+        name: "Mosquito",
+        type: "invertebrate",
+        habitat: "air"
+    }, {
         name: "Lady Bug",
         type: "invertebrate",
         habitat: "air"
@@ -48,9 +55,17 @@ const animals = [{
         type: "vertebrate",
         habitat: "land"
     }, {
+        name: "Vulture",
+        type: "vertebrate",
+        habitat: "air"
+    }, {
         name: "Bee",
         type: "invertebrate",
         habitat: "air"
+    }, {
+        name: "Octopus",
+        type: "invertebrate",
+        habitat: "water"
     }, {
         name: "Lemur",
         type: "vertebrate",
@@ -59,6 +74,10 @@ const animals = [{
         name: "Bat",
         type: "vertebrate",
         habitat: "air"
+    }, {
+        name: "Whale",
+        type: "vertebrate",
+        habitat: "water"
     }, {
         name: "Sloth",
         type: "vertebrate",
